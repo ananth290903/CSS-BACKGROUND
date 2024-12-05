@@ -1,6 +1,6 @@
 body
 {
-    background-image:url("./bla.jpg"),url("./l.png");
+    background-image:url("./imgs/bla.jpg"),url("./imgs/l.png");
     background-repeat: repeat,no-repeat;
     background-position:left top,600px 150px;
     background-blend-mode:soft-light;
